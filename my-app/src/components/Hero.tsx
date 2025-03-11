@@ -15,7 +15,7 @@ const Hero = ({ backgroundImage }: HeroProps) => {
         width: "100%",
       }}
     >
-      <h1>Hero Section</h1>
+      
     </div>
   );
 };
